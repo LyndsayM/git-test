@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LyndsayM/git-test/issues"
   },
-  "homepage": "https://github.com/LyndsayM/git-test#readme"
+  "homepage": "https://github.com/LyndsayM/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
